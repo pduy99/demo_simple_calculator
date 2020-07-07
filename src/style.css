@@ -1,0 +1,22 @@
+.text-field{
+    -fx-background-color: #2A2B2D;
+    -fx-text-fill: #ffffff;
+}
+
+.type1-button{
+    -fx-background-color: #5B5C5E;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+}
+
+.type2-button{
+    -fx-background-color: #3D3E40;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+}
+
+.type3-button{
+    -fx-background-color: #F3980B;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+}
